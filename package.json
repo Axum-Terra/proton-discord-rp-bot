@@ -1,0 +1,15 @@
+{
+  "name": "proton-discord-rp-bot",
+  "version": "0.0.1",
+  "description": "A simpel bot used primarily for fetching email data and sending it to a specific channel in a discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AudioBox",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
